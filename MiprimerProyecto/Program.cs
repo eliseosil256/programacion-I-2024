@@ -20,7 +20,6 @@ namespace MiprimerProyecto
             }
             decimal prom = suma / serie.Length;
             Console.WriteLine("La suma es: {0}, El promedio es {1}", suma, prom);
-
             //pausa
             Console.ReadLine();
         }
