@@ -1,0 +1,7 @@
+D:\Users\Estudiante\Desktop\programacion-I-2024.git\MiprimerProyecto\bin\Debug\MiprimerProyecto.exe.config
+D:\Users\Estudiante\Desktop\programacion-I-2024.git\MiprimerProyecto\bin\Debug\MiprimerProyecto.exe
+D:\Users\Estudiante\Desktop\programacion-I-2024.git\MiprimerProyecto\bin\Debug\MiprimerProyecto.pdb
+D:\Users\Estudiante\Desktop\programacion-I-2024.git\MiprimerProyecto\obj\Debug\MiprimerProyecto.csproj.AssemblyReference.cache
+D:\Users\Estudiante\Desktop\programacion-I-2024.git\MiprimerProyecto\obj\Debug\MiprimerProyecto.csproj.CoreCompileInputs.cache
+D:\Users\Estudiante\Desktop\programacion-I-2024.git\MiprimerProyecto\obj\Debug\MiprimerProyecto.exe
+D:\Users\Estudiante\Desktop\programacion-I-2024.git\MiprimerProyecto\obj\Debug\MiprimerProyecto.pdb
