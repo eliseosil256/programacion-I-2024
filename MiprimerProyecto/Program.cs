@@ -12,7 +12,7 @@ namespace MiprimerProyecto
         {
             //obtener la secuencia fibonacci
             int a = 0, b = 1, c = 1;
-            while (c < 300)
+            while (c < 100)
             {
                 Console.WriteLine("{0}+{1}={2}", a, b, c);
                 b = a;
