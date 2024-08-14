@@ -10,17 +10,11 @@ namespace MiprimerProyecto
     {
         static void Main(string[] args)
         {
-            //obtener la secuencia fibonacci
-            int a = 0, b = 1, c = 1;
-            while (c < 100)
-            {
-                Console.WriteLine("{0}+{1}={2}", a, b, c);
-                b = a;
-                a = c;
-                c = a + b;
+            //determinar si cada numero de la serie es par o impar
+            int[] serie = new int[] { 5, 9, 4, 6, 3, 2, };
+            foreach(int num in serie) {
+                Console.WriteLine("el num {0} es {1}", num, num % 2 == 0 ? "Par" : "impar");
             }
-
-            //pausa
             Console.ReadLine();
         }
     }
