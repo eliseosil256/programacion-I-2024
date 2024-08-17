@@ -74,7 +74,7 @@ namespace Conversores
             double cantidadConvertida = cantidad * tasasDeCambio[indiceOrigen, indiceDestino];
             
             Console.WriteLine($"{cantidad} {monedaOrigen} equivale a {cantidadConvertida} {monedaDestino}.");
-            Console.ReadLine(); 
+            Console.ReadLine();  
         }
     }
 }
