@@ -1,0 +1,7 @@
+C:\Users\elise\source\repos\programacion-I-2024\MenuDeConversores\MenuDeConversores\bin\Debug\MenuDeConversores.exe.config
+C:\Users\elise\source\repos\programacion-I-2024\MenuDeConversores\MenuDeConversores\bin\Debug\MenuDeConversores.exe
+C:\Users\elise\source\repos\programacion-I-2024\MenuDeConversores\MenuDeConversores\bin\Debug\MenuDeConversores.pdb
+C:\Users\elise\source\repos\programacion-I-2024\MenuDeConversores\MenuDeConversores\obj\Debug\MenuDeConversores.csproj.AssemblyReference.cache
+C:\Users\elise\source\repos\programacion-I-2024\MenuDeConversores\MenuDeConversores\obj\Debug\MenuDeConversores.csproj.CoreCompileInputs.cache
+C:\Users\elise\source\repos\programacion-I-2024\MenuDeConversores\MenuDeConversores\obj\Debug\MenuDeConversores.exe
+C:\Users\elise\source\repos\programacion-I-2024\MenuDeConversores\MenuDeConversores\obj\Debug\MenuDeConversores.pdb
