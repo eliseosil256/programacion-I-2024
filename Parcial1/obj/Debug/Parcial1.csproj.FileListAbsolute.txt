@@ -1,0 +1,7 @@
+D:\Users\Estudiante\Desktop\programacion-I-2024.g\Parcial1\bin\Debug\Parcial1.exe.config
+D:\Users\Estudiante\Desktop\programacion-I-2024.g\Parcial1\bin\Debug\Parcial1.exe
+D:\Users\Estudiante\Desktop\programacion-I-2024.g\Parcial1\bin\Debug\Parcial1.pdb
+D:\Users\Estudiante\Desktop\programacion-I-2024.g\Parcial1\obj\Debug\Parcial1.csproj.AssemblyReference.cache
+D:\Users\Estudiante\Desktop\programacion-I-2024.g\Parcial1\obj\Debug\Parcial1.csproj.CoreCompileInputs.cache
+D:\Users\Estudiante\Desktop\programacion-I-2024.g\Parcial1\obj\Debug\Parcial1.exe
+D:\Users\Estudiante\Desktop\programacion-I-2024.g\Parcial1\obj\Debug\Parcial1.pdb
