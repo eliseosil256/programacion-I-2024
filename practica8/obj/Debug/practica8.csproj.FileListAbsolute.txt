@@ -1,0 +1,10 @@
+D:\Users\Estudiante\Desktop\programacion-I-20242\practica8\bin\Debug\practica8.exe.config
+D:\Users\Estudiante\Desktop\programacion-I-20242\practica8\bin\Debug\practica8.exe
+D:\Users\Estudiante\Desktop\programacion-I-20242\practica8\bin\Debug\practica8.pdb
+D:\Users\Estudiante\Desktop\programacion-I-20242\practica8\obj\Debug\practica8.csproj.AssemblyReference.cache
+D:\Users\Estudiante\Desktop\programacion-I-20242\practica8\obj\Debug\practica8.Form1.resources
+D:\Users\Estudiante\Desktop\programacion-I-20242\practica8\obj\Debug\practica8.Properties.Resources.resources
+D:\Users\Estudiante\Desktop\programacion-I-20242\practica8\obj\Debug\practica8.csproj.GenerateResource.cache
+D:\Users\Estudiante\Desktop\programacion-I-20242\practica8\obj\Debug\practica8.csproj.CoreCompileInputs.cache
+D:\Users\Estudiante\Desktop\programacion-I-20242\practica8\obj\Debug\practica8.exe
+D:\Users\Estudiante\Desktop\programacion-I-20242\practica8\obj\Debug\practica8.pdb
